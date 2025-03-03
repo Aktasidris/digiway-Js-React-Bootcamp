@@ -1,1 +1,1 @@
-## Digiway Js-React Bootcamp derslerinden öğrendiklerim ile ddenmeler
+## Digiway Js-React Bootcamp derslerinden öğrendiklerim ile denemeler

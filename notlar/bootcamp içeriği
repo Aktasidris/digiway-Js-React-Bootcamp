@@ -1,0 +1,162 @@
+#Javascript
+x Değişkenler 
+x Değişken Türleri
+x Operatörler
+x If / Else Koşul İfadeleri
+x Strings
+String Metotları
+x Numbers
+Dates & Times
+x Diziler
+Dizi Metotları
+x Objects
+x Döngüler
+x Fonksiyonlar
+Scopes
+Dom Nedir
+Tekil Element Seçimi
+Çoklu Element Seçimi
+Dom Elementleri Üzerinde Gezinme
+Element Silme ve Güncelleme
+Event Listeners Kullanımı
+Listeye Eleman Ekle
+Listeden Eleman Silme
+Liste Elemanının Güncellenmesi
+Tamamlanan Görevlerin İşaretlenmesi
+Görev Filtrelemesinin Uygulanması
+Görev Listesinin Tarayıcıda Saklanması Javascript OOP Nedir?
+Nesne Oluşturma : Constructor
+Prototype
+Modern Javascript Nedir?
+Arrow Function
+Array ile Çalışma
+Spread Operator
+Destructuring
+Maps
+Sets
+Class
+Getter & Setter
+Inheritance
+Asynchronous JavaScript Nedir?
+Callback Functions
+Ajax - Http Requests
+JSON ile Çalışma
+Promise
+Promise & Fetch API
+Hata Mesajlarının Yazdırılması
+Async & Await
+
+
+#TypeScript
+TypeScript Nedir?
+Types
+Type Assertions
+Functions
+Interface
+Class
+Objects
+Constructors
+Access Modifier
+Properties
+Modules
+
+#React
+React Nedir?
+SPA (Single Page Application) Nedir?
+Var
+Let ve Const Keywords
+Arrow Function
+Export ve Import
+Classları Anlamak
+Spread ve Rest Operatörleri
+Destructuring Reference ve Primitive Tipler
+React Component Yapısının Önemi
+React Kurulumu
+React Dosya ve Klasör Yapısı
+React Çalışma Mantığı
+JSX Nedir?
+Custom Component,Component Stillendirme React İçerisinde JavaScript Kullanma
+React Props
+Dinamik Props
+React Componentlerinde JavaScript Dosyası Kullanma
+props.children Özelliği
+Kod Düzenleme
+React Eventlerle Çalışmak
+React State Mantığı,React useState Hook
+useState Uygulama
+Form Inputlarını Ekleme
+Form Inputlarını Dinleme
+Birden Fazla State İle Çalışmak
+Çoklu Stateleri Tek State İçinde Yazmak State Update İşleminde Previous State Kullanımı
+Form onSubmit İşlemi
+Two-way Binding
+Componentler Arası İletişim
+JavaScript Map Metodunu İyi Anlamak
+React Key Özelliği
+React Conditional Content
+React Conditional State
+Ürün Silme İşlemi
+İnline Css Kullanımı
+Dinamik İnline Css Kullanımı
+Dinamik className Ekleme
+styled-components Kurulum ve İnceleme
+styled-components Dinamik Props
+styled-components ile Media Sorguları
+Css Modules Kullanımı
+Css Modules ile Dinamik Stillendirme
+React Hata Mesajlarını Okuyup Anlama
+React Projelerimizi Analiz Etmek
+React Breakpointlerle Çalışmak
+React DevTools Kullanımı
+Tailwind CSS Kurulumu
+AddWorker Componenti
+Tekrar Kullanılabilir Componentler
+Button Componenti
+State Yönetimi
+Stateleri Resetleme ve Validation İşlemleri
+WorkerList Componenti
+Ekleme ve Silme İşlemleri
+ErrorModal Componenti
+Error Statelerini Yönetme
+JSX Sınırlamaları ve Geçici Çözümler
+Wrapper Componenti
+React Fragments
+React Portals İnceleme
+React Refs ve useRef
+Controlled ve Uncontrolled Componentler
+Side Effects Nedir
+useEffect Nedir?
+useEffect ve Dependencies
+useEffect Cleanup Fonksiyonu Kullanımı
+useEffect Özet
+useReducer Nedir?
+useState ile State Yönetimi
+useReducer ile State Yönetimi
+Global State Management
+Context API ve useContext Kullanımı
+Context Klasör Kurulumu
+Projeye Context API Kurulumu
+Projede useContext Kullanımı
+Context API Sınırlamalar ve Dezavantajlar
+React Hooks Kuralları
+React Çalışma Mantığı
+Componentlerin Güncellenmesi
+Child Component Re-Evaluation
+react.memo() Kullanımı
+useCallback Kullanımı
+useCallback Dependency Array useMemo Kullanımı
+Client - Server İlişkisi
+HTTP Get İsteği ile Veri Getirme
+Async - Await Kullanımı
+Loading State
+Error Handling ( Hata Yakalama)
+useEffect ile HTTP İstekleri
+Form Component Kurulumu
+HTTP Post İsteğiyle Yeni Ürün Oluşturma
+Custom Hook Oluşturma
+Custom Hook Kullanımı
+Eksi Sayaç Ayarları
+Yeni Custom Hook Örneği
+useHttp Hook Oluşturma
+useHttp Hook Kullanımı
+useHttp Hook Post Method
